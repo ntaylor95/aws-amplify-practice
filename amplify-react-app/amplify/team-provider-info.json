@@ -1,0 +1,41 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplifyreactapp-dev-62643-authRole",
+            "UnauthRoleArn": "arn:aws:iam::073384980128:role/amplify-amplifyreactapp-dev-62643-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::073384980128:role/amplify-amplifyreactapp-dev-62643-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-amplifyreactapp-dev-62643-deployment",
+            "UnauthRoleName": "amplify-amplifyreactapp-dev-62643-unauthRole",
+            "StackName": "amplify-amplifyreactapp-dev-62643",
+            "StackId": "arn:aws:cloudformation:us-east-1:073384980128:stack/amplify-amplifyreactapp-dev-62643/9e5bb370-9e7a-11ea-82e5-0a0faac5843d",
+            "AmplifyAppId": "d29pc3l9cx9s78"
+        }
+    },
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplifyreactapp-prod-63018-authRole",
+            "UnauthRoleArn": "arn:aws:iam::073384980128:role/amplify-amplifyreactapp-prod-63018-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::073384980128:role/amplify-amplifyreactapp-prod-63018-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-amplifyreactapp-prod-63018-deployment",
+            "UnauthRoleName": "amplify-amplifyreactapp-prod-63018-unauthRole",
+            "StackName": "amplify-amplifyreactapp-prod-63018",
+            "StackId": "arn:aws:cloudformation:us-east-1:073384980128:stack/amplify-amplifyreactapp-prod-63018/1dd8b990-9e7b-11ea-ae49-12b57bb5da09",
+            "AmplifyAppId": "d29pc3l9cx9s78"
+        }
+    },
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplifyreactapp-test-63146-authRole",
+            "UnauthRoleArn": "arn:aws:iam::073384980128:role/amplify-amplifyreactapp-test-63146-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::073384980128:role/amplify-amplifyreactapp-test-63146-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-amplifyreactapp-test-63146-deployment",
+            "UnauthRoleName": "amplify-amplifyreactapp-test-63146-unauthRole",
+            "StackName": "amplify-amplifyreactapp-test-63146",
+            "StackId": "arn:aws:cloudformation:us-east-1:073384980128:stack/amplify-amplifyreactapp-test-63146/5248f320-9e7b-11ea-a51d-1271b8f35690",
+            "AmplifyAppId": "d29pc3l9cx9s78"
+        }
+    }
+}

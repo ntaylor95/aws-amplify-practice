@@ -8,6 +8,9 @@
 # Open Amplify in the console
 > amplify console
 
+# Adding APIs
+
+1. > amplify add <api, auth, >
 
 # Deployment
 
@@ -27,3 +30,7 @@
 
 5. to find the URL via the Console... open the AWS Amplify console and go to 
    App Settings -> Domain Management
+
+# Adding environments
+
+1. 
