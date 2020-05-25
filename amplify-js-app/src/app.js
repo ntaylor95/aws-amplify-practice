@@ -9,7 +9,7 @@ API.configure(awsconfig);
 PubSub.configure(awsconfig);
 
 async function createNewTodo() {
-  const todo = { name: "Subscribe Test" , description: "Realtime and Offline"}
+  const todo = { name: "Hello World" , description: "Realtime and Offline"}
   return await API.graphql(graphqlOperation(createTodo, { input: todo }))
 }
 
